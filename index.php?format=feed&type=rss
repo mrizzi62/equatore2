@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title> - Equatore</title>
+		<description><![CDATA[]]></description>
+		<link>http://www.equatore.org/index.php?option=com_content&amp;view=featured</link>
+		<lastBuildDate>Tue, 04 Nov 2025 19:27:19 +0100</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="http://www.equatore.org/index.php?format=feed&amp;type=rss"/>
+		<language>en-gb</language>
+		<item>
+			<title>Associazione Equatore Onlus — Home Page</title>
+			<link>http://www.equatore.org/index.php?option=com_content&amp;view=article&amp;id=1:home&amp;catid=2&amp;Itemid=101</link>
+			<guid isPermaLink="true">http://www.equatore.org/index.php?option=com_content&amp;view=article&amp;id=1:home&amp;catid=2&amp;Itemid=101</guid>
+			<description><![CDATA[<div class="feed-description"><p><img src="https://www.equatore.org/images/_sito/GANDHI.png" border="0" alt="Citazione Ghandi" /></p>
+<h3 class="blue">Associazione Equatore Onlus</h3>
+<p><strong>L'Associazione ha esclusiva finalità di solidarietà</strong> sociale e svolge la propria attività nell'ambito della <strong>beneficenza, formazione, tutela</strong> dei diritti civili a favore di persone svantaggiate in ragione di condizioni fisiche, psichiche, economiche, sociali o familiari e a favore di componenti delle collettività estere, limitatamente agli aiuti umanitari.</p>
+<h3 class="brown">Associazione Orizzonte Ediesse</h3>
+<p>(Educazione, Diritto, Ambiente, Salute, Sviluppo) è un'associazione di promozione sociale che svolge la propria azione a favore di persone e comunità svantaggiate, sia in Italia che all'estero.</p></div>]]></description>
+			<author>ernomm@gmail.com (Erno Magyar)</author>
+			<category>Featured</category>
+			<category>Uncategorised</category>
+			<pubDate>Sun, 27 Mar 2011 13:11:06 +0200</pubDate>
+		</item>
+	</channel>
+</rss>

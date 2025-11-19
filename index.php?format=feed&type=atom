@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="en-gb">
+	<title type="text"> - Equatore</title>
+	<subtitle type="text"></subtitle>
+	<link rel="alternate" type="text/html" href="http://www.equatore.org"/>
+	<id>http://www.equatore.org/index.php</id>
+	<updated>2025-11-04T19:27:19+01:00</updated>
+	<generator uri="http://joomla.org" version="2.5">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="http://www.equatore.org/index.php?format=feed&amp;type=atom"/>
+	<entry>
+		<title>Associazione Equatore Onlus — Home Page</title>
+		<link rel="alternate" type="text/html" href="http://www.equatore.org/index.php?option=com_content&amp;view=article&amp;id=1:home&amp;catid=2&amp;Itemid=101"/>
+		<published>2011-03-27T13:11:06+02:00</published>
+		<updated>2011-03-27T13:11:06+02:00</updated>
+		<id>http://www.equatore.org/index.php?option=com_content&amp;view=article&amp;id=1:home&amp;catid=2&amp;Itemid=101</id>
+		<author>
+			<name>Erno Magyar</name>
+			<email>ernomm@gmail.com</email>
+		</author>
+		<summary type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p&gt;&lt;img src=&quot;images/_sito/GANDHI.png&quot; border=&quot;0&quot; alt=&quot;Citazione Ghandi&quot; /&gt;&lt;/p&gt;
+&lt;h3 class=&quot;blue&quot;&gt;Associazione Equatore Onlus&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;L'Associazione ha esclusiva finalità di solidarietà&lt;/strong&gt; sociale e svolge la propria attività nell'ambito della &lt;strong&gt;beneficenza, formazione, tutela&lt;/strong&gt; dei diritti civili a favore di persone svantaggiate in ragione di condizioni fisiche, psichiche, economiche, sociali o familiari e a favore di componenti delle collettività estere, limitatamente agli aiuti umanitari.&lt;/p&gt;
+&lt;h3 class=&quot;brown&quot;&gt;Associazione Orizzonte Ediesse&lt;/h3&gt;
+&lt;p&gt;(Educazione, Diritto, Ambiente, Salute, Sviluppo) è un'associazione di promozione sociale che svolge la propria azione a favore di persone e comunità svantaggiate, sia in Italia che all'estero.&lt;/p&gt;&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p&gt;&lt;img src=&quot;images/_sito/GANDHI.png&quot; border=&quot;0&quot; alt=&quot;Citazione Ghandi&quot; /&gt;&lt;/p&gt;
+&lt;h3 class=&quot;blue&quot;&gt;Associazione Equatore Onlus&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;L'Associazione ha esclusiva finalità di solidarietà&lt;/strong&gt; sociale e svolge la propria attività nell'ambito della &lt;strong&gt;beneficenza, formazione, tutela&lt;/strong&gt; dei diritti civili a favore di persone svantaggiate in ragione di condizioni fisiche, psichiche, economiche, sociali o familiari e a favore di componenti delle collettività estere, limitatamente agli aiuti umanitari.&lt;/p&gt;
+&lt;h3 class=&quot;brown&quot;&gt;Associazione Orizzonte Ediesse&lt;/h3&gt;
+&lt;p&gt;(Educazione, Diritto, Ambiente, Salute, Sviluppo) è un'associazione di promozione sociale che svolge la propria azione a favore di persone e comunità svantaggiate, sia in Italia che all'estero.&lt;/p&gt;&lt;/div&gt;</content>
+		<category term="Featured" />
+		<category term="Uncategorised" />
+	</entry>
+</feed>
