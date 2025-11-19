@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="en-gb">
+	<title type="text"> - Equatore</title>
+	<subtitle type="text"></subtitle>
+	<link rel="alternate" type="text/html" href="http://www.equatore.org"/>
+	<id>http://www.equatore.org/index.php</id>
+	<updated>2025-11-04T19:28:02+01:00</updated>
+	<generator uri="http://joomla.org" version="2.5">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="http://www.equatore.org/index.php?option=com_content&amp;view=category&amp;id=41&amp;Itemid=169&amp;format=feed&amp;type=atom"/>
+	<entry>
+		<title>Locandina_minori_stranieri</title>
+		<link rel="alternate" type="text/html" href="http://www.equatore.org/index.php?option=com_content&amp;view=article&amp;id=211:locandina-minori-stranieri&amp;catid=41&amp;Itemid=169"/>
+		<published>2014-04-18T14:33:18+02:00</published>
+		<updated>2014-04-18T14:33:18+02:00</updated>
+		<id>http://www.equatore.org/index.php?option=com_content&amp;view=article&amp;id=211:locandina-minori-stranieri&amp;catid=41&amp;Itemid=169</id>
+		<author>
+			<name>Benedetto Calabrese</name>
+			<email>bennyboy94@libero.it</email>
+		</author>
+		<summary type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;h2 style=&quot;text-align: center;&quot;&gt;Locandina &quot;Minori stranieri e modelli educativi nel contesto migratorio&quot;&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;images/jpg/locandina_minori.JPG&quot; alt=&quot;&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;images/doc/Min-stran-mod-educa-Locandina.doc&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;images/icona_doc.jpg&quot; alt=&quot;&quot; /&gt;&amp;nbsp; Scarica qui la locandina completa&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;h2 style=&quot;text-align: center;&quot;&gt;Locandina &quot;Minori stranieri e modelli educativi nel contesto migratorio&quot;&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;images/jpg/locandina_minori.JPG&quot; alt=&quot;&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;images/doc/Min-stran-mod-educa-Locandina.doc&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;images/icona_doc.jpg&quot; alt=&quot;&quot; /&gt;&amp;nbsp; Scarica qui la locandina completa&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</content>
+		<category term="Minori stranieri e modelli educativi nel contesto migratorio" />
+	</entry>
+	<entry>
+		<title>Depliant minori e stranieri</title>
+		<link rel="alternate" type="text/html" href="http://www.equatore.org/index.php?option=com_content&amp;view=article&amp;id=210:depliant-minori-e-stranieri&amp;catid=41&amp;Itemid=169"/>
+		<published>2014-04-18T14:31:06+02:00</published>
+		<updated>2014-04-18T14:31:06+02:00</updated>
+		<id>http://www.equatore.org/index.php?option=com_content&amp;view=article&amp;id=210:depliant-minori-e-stranieri&amp;catid=41&amp;Itemid=169</id>
+		<author>
+			<name>Benedetto Calabrese</name>
+			<email>bennyboy94@libero.it</email>
+		</author>
+		<summary type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;images/doc/Minori-stran-mod-educ-depliant.doc&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;images/icona_doc.jpg&quot; alt=&quot;&quot; style=&quot;font-size: 1.5em; background-color: transparent;&quot; /&gt;&lt;span style=&quot;font-size: 1.5em; background-color: transparent;&quot;&gt;&amp;nbsp;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Programma e scheda di iscrizione&lt;/span&gt;&lt;/span&gt;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;images/doc/Minori-stran-mod-educ-depliant.doc&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;images/icona_doc.jpg&quot; alt=&quot;&quot; style=&quot;font-size: 1.5em; background-color: transparent;&quot; /&gt;&lt;span style=&quot;font-size: 1.5em; background-color: transparent;&quot;&gt;&amp;nbsp;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Programma e scheda di iscrizione&lt;/span&gt;&lt;/span&gt;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;</content>
+		<category term="Minori stranieri e modelli educativi nel contesto migratorio" />
+	</entry>
+	<entry>
+		<title>Relazioni minori</title>
+		<link rel="alternate" type="text/html" href="http://www.equatore.org/index.php?option=com_content&amp;view=article&amp;id=294:relazioni-minori&amp;catid=41&amp;Itemid=169"/>
+		<published>2015-12-17T23:25:33+01:00</published>
+		<updated>2015-12-17T23:25:33+01:00</updated>
+		<id>http://www.equatore.org/index.php?option=com_content&amp;view=article&amp;id=294:relazioni-minori&amp;catid=41&amp;Itemid=169</id>
+		<author>
+			<name>Benedetto Calabrese</name>
+			<email>bennyboy94@libero.it</email>
+		</author>
+		<summary type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;h3&gt;Relazioni, documenti, slides e/o interventi dei relatori&lt;/h3&gt;
+&lt;p style=&quot;margin-left: 30px; text-align: justify;&quot;&gt;&lt;a href=&quot;images/doc/Filiazione-bibliog-con-lettera.doc&quot; rel=&quot;nofollow&quot;&gt;- Calabrese Alfredo, &amp;ldquo;Filiazione e affiliazione tra norme, culture e riconoscimenti, Percorso bibliografico presentato, insieme a una lettera ai corsisti, al percorso formativo &amp;ldquo;Minori stranieri e modelli educativi nel contesto migratorio&amp;rdquo; Bergamo, 3 febbraio 2006formativo &amp;ldquo;Minori stranieri e modelli educativi nel contesto migratorio&amp;rdquo; Bergamo, 3 febbraio 2006&lt;/a&gt;&lt;/p&gt;
+&lt;p style=&quot;margin-left: 30px; text-align: justify;&quot;&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p style=&quot;margin-left: 30px; text-align: justify;&quot;&gt;&lt;a href=&quot;images/doc/Islam%20bibliografia.docx&quot; rel=&quot;nofollow&quot;&gt;- Calabrese Alfredo, Islam - Breve bibliografia di testi in lingua italiana &amp;ndash; anno 2006&lt;/a&gt;&lt;/p&gt;
+&lt;p style=&quot;margin-left: 30px; text-align: justify;&quot;&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p style=&quot;margin-left: 30px; text-align: justify;&quot;&gt;&lt;a href=&quot;images/pdf/Articolo%20Roberta%20Ricucci.pdf&quot; rel=&quot;nofollow&quot;&gt;- Ricucci Roberta, La generazione &amp;ldquo;1.5.&amp;rdquo; di minori stranieri. Strategie di identit&amp;agrave; e percorsi di integrazione fra famiglia e tempo libero. Articolo proposto al percorso formativo &amp;ldquo;Minori stranieri e modelli educativi nel contesto migratorio&amp;rdquo; Bergamo, 23 febbraio 2006&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;h3&gt;Relazioni, documenti, slides e/o interventi dei relatori&lt;/h3&gt;
+&lt;p style=&quot;margin-left: 30px; text-align: justify;&quot;&gt;&lt;a href=&quot;images/doc/Filiazione-bibliog-con-lettera.doc&quot; rel=&quot;nofollow&quot;&gt;- Calabrese Alfredo, &amp;ldquo;Filiazione e affiliazione tra norme, culture e riconoscimenti, Percorso bibliografico presentato, insieme a una lettera ai corsisti, al percorso formativo &amp;ldquo;Minori stranieri e modelli educativi nel contesto migratorio&amp;rdquo; Bergamo, 3 febbraio 2006formativo &amp;ldquo;Minori stranieri e modelli educativi nel contesto migratorio&amp;rdquo; Bergamo, 3 febbraio 2006&lt;/a&gt;&lt;/p&gt;
+&lt;p style=&quot;margin-left: 30px; text-align: justify;&quot;&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p style=&quot;margin-left: 30px; text-align: justify;&quot;&gt;&lt;a href=&quot;images/doc/Islam%20bibliografia.docx&quot; rel=&quot;nofollow&quot;&gt;- Calabrese Alfredo, Islam - Breve bibliografia di testi in lingua italiana &amp;ndash; anno 2006&lt;/a&gt;&lt;/p&gt;
+&lt;p style=&quot;margin-left: 30px; text-align: justify;&quot;&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p style=&quot;margin-left: 30px; text-align: justify;&quot;&gt;&lt;a href=&quot;images/pdf/Articolo%20Roberta%20Ricucci.pdf&quot; rel=&quot;nofollow&quot;&gt;- Ricucci Roberta, La generazione &amp;ldquo;1.5.&amp;rdquo; di minori stranieri. Strategie di identit&amp;agrave; e percorsi di integrazione fra famiglia e tempo libero. Articolo proposto al percorso formativo &amp;ldquo;Minori stranieri e modelli educativi nel contesto migratorio&amp;rdquo; Bergamo, 23 febbraio 2006&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</content>
+		<category term="Minori stranieri e modelli educativi nel contesto migratorio" />
+	</entry>
+</feed>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="en-gb">
+	<title type="text"> - Equatore</title>
+	<subtitle type="text"></subtitle>
+	<link rel="alternate" type="text/html" href="http://www.equatore.org"/>
+	<id>http://www.equatore.org/index.php</id>
+	<updated>2025-11-04T19:28:06+01:00</updated>
+	<generator uri="http://joomla.org" version="2.5">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="http://www.equatore.org/index.php?option=com_content&amp;view=category&amp;id=37&amp;Itemid=169&amp;format=feed&amp;type=atom"/>
+	<entry>
+		<title>Locandina donne e migrazioni</title>
+		<link rel="alternate" type="text/html" href="http://www.equatore.org/index.php?option=com_content&amp;view=article&amp;id=168:locandina-donne-e-migrazioni&amp;catid=37&amp;Itemid=169"/>
+		<published>2014-04-15T20:27:27+02:00</published>
+		<updated>2014-04-15T20:27:27+02:00</updated>
+		<id>http://www.equatore.org/index.php?option=com_content&amp;view=article&amp;id=168:locandina-donne-e-migrazioni&amp;catid=37&amp;Itemid=169</id>
+		<author>
+			<name>Benedetto Calabrese</name>
+			<email>bennyboy94@libero.it</email>
+		</author>
+		<summary type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;h2 style=&quot;text-align: center;&quot;&gt;Locandina donne e migrazioni&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;images/jpg/donna_migrazioni_locandina.PNG&quot; alt=&quot;&quot; width=&quot;500&quot; height=&quot;548&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;images/pdf/-LOCANDINA%2034%20x49%20a%20.pdf&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;images/icona_pdf.jpg&quot; alt=&quot;&quot; /&gt;&amp;nbsp; Scarica qui la locandina completa&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;h2 style=&quot;text-align: center;&quot;&gt;Locandina donne e migrazioni&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;images/jpg/donna_migrazioni_locandina.PNG&quot; alt=&quot;&quot; width=&quot;500&quot; height=&quot;548&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;images/pdf/-LOCANDINA%2034%20x49%20a%20.pdf&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;images/icona_pdf.jpg&quot; alt=&quot;&quot; /&gt;&amp;nbsp; Scarica qui la locandina completa&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</content>
+		<category term="Donna e Migrazioni" />
+	</entry>
+	<entry>
+		<title>Scheda di iscrizione donna e migrazioni</title>
+		<link rel="alternate" type="text/html" href="http://www.equatore.org/index.php?option=com_content&amp;view=article&amp;id=169:scheda-di-iscrizione-donna-e-migrazioni&amp;catid=37&amp;Itemid=169"/>
+		<published>2014-04-15T20:33:01+02:00</published>
+		<updated>2014-04-15T20:33:01+02:00</updated>
+		<id>http://www.equatore.org/index.php?option=com_content&amp;view=article&amp;id=169:scheda-di-iscrizione-donna-e-migrazioni&amp;catid=37&amp;Itemid=169</id>
+		<author>
+			<name>Benedetto Calabrese</name>
+			<email>bennyboy94@libero.it</email>
+		</author>
+		<summary type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;h3&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;a href=&quot;images/doc/Scheda%20di%20iscrizione.doc&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;images/icona_doc.jpg&quot; alt=&quot;&quot; /&gt;&amp;nbsp;Scheda di iscrizione&lt;/a&gt;&lt;/span&gt;&lt;/h3&gt;
+&lt;h3&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;a href=&quot;images/doc/Pieghevole.doc&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;images/icona_doc.jpg&quot; alt=&quot;&quot; /&gt;&amp;nbsp;Programma completo&lt;/a&gt;&lt;br /&gt;&lt;/span&gt;&lt;/h3&gt;&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;h3&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;a href=&quot;images/doc/Scheda%20di%20iscrizione.doc&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;images/icona_doc.jpg&quot; alt=&quot;&quot; /&gt;&amp;nbsp;Scheda di iscrizione&lt;/a&gt;&lt;/span&gt;&lt;/h3&gt;
+&lt;h3&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;a href=&quot;images/doc/Pieghevole.doc&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;images/icona_doc.jpg&quot; alt=&quot;&quot; /&gt;&amp;nbsp;Programma completo&lt;/a&gt;&lt;br /&gt;&lt;/span&gt;&lt;/h3&gt;&lt;/div&gt;</content>
+		<category term="Donna e Migrazioni" />
+	</entry>
+	<entry>
+		<title>Relazioni_d_m</title>
+		<link rel="alternate" type="text/html" href="http://www.equatore.org/index.php?option=com_content&amp;view=article&amp;id=298:relazioni-d-m&amp;catid=37&amp;Itemid=169"/>
+		<published>2015-12-21T01:56:00+01:00</published>
+		<updated>2015-12-21T01:56:00+01:00</updated>
+		<id>http://www.equatore.org/index.php?option=com_content&amp;view=article&amp;id=298:relazioni-d-m&amp;catid=37&amp;Itemid=169</id>
+		<author>
+			<name>Benedetto Calabrese</name>
+			<email>bennyboy94@libero.it</email>
+		</author>
+		<summary type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;h3 style=&quot;margin-bottom: 10px; color: #5f5f5f; font-family: Arial, Tahoma, 'Times New Roman'; text-align: justify;&quot;&gt;Relazioni, documenti, slides e/o interventi dei relatori&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&quot;images/doc/F-Ass.dom.art.rev-ambrosini-F.doc&quot; rel=&quot;nofollow&quot;&gt;- Ambrosini Maurizio, Dentro il welfare invisibile: aiutanti domiciliari immigrate e assistenza agli anziani.&lt;/a&gt;&lt;br /&gt;&lt;a href=&quot;images/doc/F-Ass.dom.art.rev-ambrosini-F.doc&quot; rel=&quot;nofollow&quot;&gt;Articolo presentato a Bergamo al percorso formativo &amp;ldquo;Donna e migrazioni&amp;rdquo; il 22 marzo 2007. L&amp;rsquo;articolo riprende i contenuti di una ricerca svolta dalla Caritas ambrosiana per conto dell&amp;rsquo;Osservatorio regionale per l&amp;rsquo;integrazione e la multietnicit&amp;agrave; (Regione Lombardia- Fondazione Ismu di Milano) e diretta dall&amp;rsquo;autore. Viene pubblicato con l&amp;rsquo;autorizzazione dei committenti.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;images/doc/Donne_migrazione_scaletta_ciminelli.docx&quot; rel=&quot;nofollow&quot;&gt;- Ciminelli Maria Luisa, Parole e silenzi di donne: un'antropologa racconta.&lt;/a&gt;&lt;br /&gt;&lt;a href=&quot;images/doc/Donne_migrazione_scaletta_ciminelli.docx&quot; rel=&quot;nofollow&quot;&gt;Sommario dell'intervento e bibliografia presentati al percorso formativo &amp;ldquo;Donna e migrazioni&amp;rdquo;, Bergamo, marzo 2007.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;images/doc/Donne_islam_bibliografia.docx&quot; rel=&quot;nofollow&quot;&gt;- Dahnhardt Thomas, Donne e Islam, Bibliografia predisposta per il percorso formativo &amp;ldquo;Donna e migrazioni&amp;rdquo;, Bergamo 2007, percorso a cui Dahnhardt non riusc&amp;igrave; a prendere parte.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;images/presentazioni/F-ghisalberti%20bergamo%202007.ppt&quot; rel=&quot;nofollow&quot;&gt;- Ghisalberti Renata, Il codice deontologico dell&amp;rsquo;assistente sociale: quali implicazioni per l&amp;rsquo;intervento professionale tra mandato istituzionale e mandato professionale?&amp;rdquo;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;images/presentazioni/F-ghisalberti%20bergamo%202007.ppt&quot; rel=&quot;nofollow&quot;&gt;- Slides predisposte per il percorso formativo &amp;ldquo;Donna e migrazioni&amp;rdquo;, Bergamo 2007, percorso a cui Renata Ghisalberti non riusc&amp;igrave; a prendere parte.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;images/doc/schema%20per%20as.soc%20seminario%20ghisalberti.doc&quot; rel=&quot;nofollow&quot;&gt;- Ghisalberti Renata, Il codice deontologico dell&amp;rsquo;assistente sociale: alcune riflessioni soggettive in corso d&amp;rsquo; opera per trarne spunti di riflessione collettiva (solo per gli as), strumento predisposto per il percorso formativo &amp;ldquo;Donna e migrazioni&amp;rdquo;, Bergamo 2007, percorso a cui Renata Ghisalberti non riusc&amp;igrave; a prendere parte.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;images/doc/Zaffaroni%20MGF%20breve.doc&quot; rel=&quot;nofollow&quot;&gt;- Zaffaroni M., Bona G. - Clinica Pediatrica di Novara - Universit&amp;agrave; del Piemonte Orientale &amp;ldquo;A. Avogadro&amp;rdquo;, Le mutilazioni genitali femminili&amp;rdquo;. Presentato a Bergamo ai percorsi formativi &amp;ldquo;Immigrazioni, Culture, Salute&amp;rdquo; e a &amp;ldquo;Donna e Migrazioni&amp;rdquo;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;images/doc/zaffaroni%20neonati%20e%20madri.doc&quot; rel=&quot;nofollow&quot;&gt;- M. Zaffaroni, D. Avanzo, S. Mura, M. Ferraris, G. Bona La madre e il bambino. Promozione della salute per le madri straniere ed i loro bambini&lt;/a&gt;&lt;br /&gt;&lt;a href=&quot;images/doc/zaffaroni%20neonati%20e%20madri.doc&quot; rel=&quot;nofollow&quot;&gt;Universit&amp;agrave; del Piemonte Orientale &amp;ldquo;A. Avogadro&amp;rdquo; - Clinica Pediatrica di Novara&lt;/a&gt;&lt;br /&gt;&lt;a href=&quot;images/doc/zaffaroni%20neonati%20e%20madri.doc&quot; rel=&quot;nofollow&quot;&gt;Gruppo di Lavoro Nazionale per il Bambino Immigrato della S.I.P.&lt;/a&gt;&lt;br /&gt;&lt;a href=&quot;images/doc/zaffaroni%20neonati%20e%20madri.doc&quot; rel=&quot;nofollow&quot;&gt;Atti Convegno Bambini immigrati - Bambini di Frontiera Francavilla al Mare, 14 ottobre 2006. Presentato ai percorsi formativi &amp;ldquo;Immigrazioni, Culture, Salute&amp;rdquo; Bergamo e a &amp;ldquo;Donna e Migrazioni&amp;rdquo;&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;h3 style=&quot;margin-bottom: 10px; color: #5f5f5f; font-family: Arial, Tahoma, 'Times New Roman'; text-align: justify;&quot;&gt;Relazioni, documenti, slides e/o interventi dei relatori&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&quot;images/doc/F-Ass.dom.art.rev-ambrosini-F.doc&quot; rel=&quot;nofollow&quot;&gt;- Ambrosini Maurizio, Dentro il welfare invisibile: aiutanti domiciliari immigrate e assistenza agli anziani.&lt;/a&gt;&lt;br /&gt;&lt;a href=&quot;images/doc/F-Ass.dom.art.rev-ambrosini-F.doc&quot; rel=&quot;nofollow&quot;&gt;Articolo presentato a Bergamo al percorso formativo &amp;ldquo;Donna e migrazioni&amp;rdquo; il 22 marzo 2007. L&amp;rsquo;articolo riprende i contenuti di una ricerca svolta dalla Caritas ambrosiana per conto dell&amp;rsquo;Osservatorio regionale per l&amp;rsquo;integrazione e la multietnicit&amp;agrave; (Regione Lombardia- Fondazione Ismu di Milano) e diretta dall&amp;rsquo;autore. Viene pubblicato con l&amp;rsquo;autorizzazione dei committenti.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;images/doc/Donne_migrazione_scaletta_ciminelli.docx&quot; rel=&quot;nofollow&quot;&gt;- Ciminelli Maria Luisa, Parole e silenzi di donne: un'antropologa racconta.&lt;/a&gt;&lt;br /&gt;&lt;a href=&quot;images/doc/Donne_migrazione_scaletta_ciminelli.docx&quot; rel=&quot;nofollow&quot;&gt;Sommario dell'intervento e bibliografia presentati al percorso formativo &amp;ldquo;Donna e migrazioni&amp;rdquo;, Bergamo, marzo 2007.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;images/doc/Donne_islam_bibliografia.docx&quot; rel=&quot;nofollow&quot;&gt;- Dahnhardt Thomas, Donne e Islam, Bibliografia predisposta per il percorso formativo &amp;ldquo;Donna e migrazioni&amp;rdquo;, Bergamo 2007, percorso a cui Dahnhardt non riusc&amp;igrave; a prendere parte.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;images/presentazioni/F-ghisalberti%20bergamo%202007.ppt&quot; rel=&quot;nofollow&quot;&gt;- Ghisalberti Renata, Il codice deontologico dell&amp;rsquo;assistente sociale: quali implicazioni per l&amp;rsquo;intervento professionale tra mandato istituzionale e mandato professionale?&amp;rdquo;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;images/presentazioni/F-ghisalberti%20bergamo%202007.ppt&quot; rel=&quot;nofollow&quot;&gt;- Slides predisposte per il percorso formativo &amp;ldquo;Donna e migrazioni&amp;rdquo;, Bergamo 2007, percorso a cui Renata Ghisalberti non riusc&amp;igrave; a prendere parte.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;images/doc/schema%20per%20as.soc%20seminario%20ghisalberti.doc&quot; rel=&quot;nofollow&quot;&gt;- Ghisalberti Renata, Il codice deontologico dell&amp;rsquo;assistente sociale: alcune riflessioni soggettive in corso d&amp;rsquo; opera per trarne spunti di riflessione collettiva (solo per gli as), strumento predisposto per il percorso formativo &amp;ldquo;Donna e migrazioni&amp;rdquo;, Bergamo 2007, percorso a cui Renata Ghisalberti non riusc&amp;igrave; a prendere parte.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;images/doc/Zaffaroni%20MGF%20breve.doc&quot; rel=&quot;nofollow&quot;&gt;- Zaffaroni M., Bona G. - Clinica Pediatrica di Novara - Universit&amp;agrave; del Piemonte Orientale &amp;ldquo;A. Avogadro&amp;rdquo;, Le mutilazioni genitali femminili&amp;rdquo;. Presentato a Bergamo ai percorsi formativi &amp;ldquo;Immigrazioni, Culture, Salute&amp;rdquo; e a &amp;ldquo;Donna e Migrazioni&amp;rdquo;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;images/doc/zaffaroni%20neonati%20e%20madri.doc&quot; rel=&quot;nofollow&quot;&gt;- M. Zaffaroni, D. Avanzo, S. Mura, M. Ferraris, G. Bona La madre e il bambino. Promozione della salute per le madri straniere ed i loro bambini&lt;/a&gt;&lt;br /&gt;&lt;a href=&quot;images/doc/zaffaroni%20neonati%20e%20madri.doc&quot; rel=&quot;nofollow&quot;&gt;Universit&amp;agrave; del Piemonte Orientale &amp;ldquo;A. Avogadro&amp;rdquo; - Clinica Pediatrica di Novara&lt;/a&gt;&lt;br /&gt;&lt;a href=&quot;images/doc/zaffaroni%20neonati%20e%20madri.doc&quot; rel=&quot;nofollow&quot;&gt;Gruppo di Lavoro Nazionale per il Bambino Immigrato della S.I.P.&lt;/a&gt;&lt;br /&gt;&lt;a href=&quot;images/doc/zaffaroni%20neonati%20e%20madri.doc&quot; rel=&quot;nofollow&quot;&gt;Atti Convegno Bambini immigrati - Bambini di Frontiera Francavilla al Mare, 14 ottobre 2006. Presentato ai percorsi formativi &amp;ldquo;Immigrazioni, Culture, Salute&amp;rdquo; Bergamo e a &amp;ldquo;Donna e Migrazioni&amp;rdquo;&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</content>
+		<category term="Donna e Migrazioni" />
+	</entry>
+</feed>

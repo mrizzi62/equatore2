@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="en-gb">
+	<title type="text"> - Equatore</title>
+	<subtitle type="text"></subtitle>
+	<link rel="alternate" type="text/html" href="http://www.equatore.org"/>
+	<id>http://www.equatore.org/index.php</id>
+	<updated>2025-11-04T19:27:44+01:00</updated>
+	<generator uri="http://joomla.org" version="2.5">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="http://www.equatore.org/index.php?option=com_content&amp;view=category&amp;id=67&amp;Itemid=160&amp;format=feed&amp;type=atom"/>
+	<entry>
+		<title>Italiani di Eritrea</title>
+		<link rel="alternate" type="text/html" href="http://www.equatore.org/index.php?option=com_content&amp;view=article&amp;id=286:italiani-di-eritrea&amp;catid=67&amp;Itemid=160"/>
+		<published>2015-11-06T23:31:20+01:00</published>
+		<updated>2015-11-06T23:31:20+01:00</updated>
+		<id>http://www.equatore.org/index.php?option=com_content&amp;view=article&amp;id=286:italiani-di-eritrea&amp;catid=67&amp;Itemid=160</id>
+		<author>
+			<name>Benedetto Calabrese</name>
+			<email>bennyboy94@libero.it</email>
+		</author>
+		<summary type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;h3 class=&quot;Standard&quot; style=&quot;margin-bottom: 0.0001pt; text-align: center;&quot;&gt;&lt;em&gt;&lt;span style=&quot;font-size: 14pt; font-family: 'Times New Roman', serif;&quot;&gt;Italiani di Eritrea&lt;/span&gt;&lt;/em&gt;&lt;/h3&gt;
+&lt;p class=&quot;Standard&quot; style=&quot;margin-bottom: 0.0001pt; text-align: center;&quot;&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;em&gt;Italiani di Eritrea&amp;nbsp;&lt;/em&gt;&amp;egrave; un&amp;rsquo;iniziativa-ricerca portata avanti da un gruppo di professionisti, compresa la scrivente Francesca Mazzei, attivi nelle scienze umane e sociali, nei diritti umani, con competenze in ambito archivistico e con sensibilit&amp;agrave; coltivate nell&amp;rsquo;ascolto e nella raccolta di testimonianze e racconti orali. L&amp;rsquo;iniziativa &amp;egrave; volta ad approfondire la relazione, anche coloniale, fra Italia ed Eritrea. Essa ha portato alla realizzazione di alcuni &lt;em&gt;video-documentari&lt;/em&gt; che propongono i racconti di persone italiane ed eritree che hanno voluto incontrarci in Eritrea. Proponiamo questi racconti perch&amp;eacute;, a nostro avviso, sono significativi, per quello che testimoniano dal punto di vista storico, e perch&amp;eacute;, in una visione pi&amp;ugrave; profonda, narrano storie di vita, anche quotidiana, dense di riflessioni e di umanit&amp;agrave;.&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;Abbiamo inoltre costituito un piccolo archivio, un gruppo di oggetti di artigianato provenienti dall&amp;rsquo;Eritrea, nonch&amp;eacute; delle sezioni librarie dedicate a Eritrea e Colonialismo. I libri sono consultabili sul sito www.ibisweb.it/Brescia/Orizzonte Ediesse&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;Chi &amp;egrave; interessato a visionare i video, ad organizzare iniziative formative e a consultare i materiali predisposti per scopi didattici e scientifici pu&amp;ograve; rivolgersi al seguente indirizzo mail: francescamazzei111@gmail.com&lt;/p&gt;&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;h3 class=&quot;Standard&quot; style=&quot;margin-bottom: 0.0001pt; text-align: center;&quot;&gt;&lt;em&gt;&lt;span style=&quot;font-size: 14pt; font-family: 'Times New Roman', serif;&quot;&gt;Italiani di Eritrea&lt;/span&gt;&lt;/em&gt;&lt;/h3&gt;
+&lt;p class=&quot;Standard&quot; style=&quot;margin-bottom: 0.0001pt; text-align: center;&quot;&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;em&gt;Italiani di Eritrea&amp;nbsp;&lt;/em&gt;&amp;egrave; un&amp;rsquo;iniziativa-ricerca portata avanti da un gruppo di professionisti, compresa la scrivente Francesca Mazzei, attivi nelle scienze umane e sociali, nei diritti umani, con competenze in ambito archivistico e con sensibilit&amp;agrave; coltivate nell&amp;rsquo;ascolto e nella raccolta di testimonianze e racconti orali. L&amp;rsquo;iniziativa &amp;egrave; volta ad approfondire la relazione, anche coloniale, fra Italia ed Eritrea. Essa ha portato alla realizzazione di alcuni &lt;em&gt;video-documentari&lt;/em&gt; che propongono i racconti di persone italiane ed eritree che hanno voluto incontrarci in Eritrea. Proponiamo questi racconti perch&amp;eacute;, a nostro avviso, sono significativi, per quello che testimoniano dal punto di vista storico, e perch&amp;eacute;, in una visione pi&amp;ugrave; profonda, narrano storie di vita, anche quotidiana, dense di riflessioni e di umanit&amp;agrave;.&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;Abbiamo inoltre costituito un piccolo archivio, un gruppo di oggetti di artigianato provenienti dall&amp;rsquo;Eritrea, nonch&amp;eacute; delle sezioni librarie dedicate a Eritrea e Colonialismo. I libri sono consultabili sul sito www.ibisweb.it/Brescia/Orizzonte Ediesse&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;Chi &amp;egrave; interessato a visionare i video, ad organizzare iniziative formative e a consultare i materiali predisposti per scopi didattici e scientifici pu&amp;ograve; rivolgersi al seguente indirizzo mail: francescamazzei111@gmail.com&lt;/p&gt;&lt;/div&gt;</content>
+		<category term="Italiani di Eritrea" />
+	</entry>
+	<entry>
+		<title>Italiani in Africa video presentazione</title>
+		<link rel="alternate" type="text/html" href="http://www.equatore.org/index.php?option=com_content&amp;view=article&amp;id=291:italiani-in-africa-video-presentazione&amp;catid=67&amp;Itemid=160"/>
+		<published>2015-12-17T17:01:20+01:00</published>
+		<updated>2015-12-17T17:01:20+01:00</updated>
+		<id>http://www.equatore.org/index.php?option=com_content&amp;view=article&amp;id=291:italiani-in-africa-video-presentazione&amp;catid=67&amp;Itemid=160</id>
+		<author>
+			<name>Benedetto Calabrese</name>
+			<email>bennyboy94@libero.it</email>
+		</author>
+		<summary type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;h3&gt;&lt;em&gt;Italiani in Africa tra passato e presente.&lt;/em&gt; Video-documentario di presentazione della ricerca&lt;/h3&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;Questo video-documentario introduce alla ricerca realizzata, nonch&amp;eacute; al suo contesto geografico e sociale di svolgimento: l&amp;rsquo;Eritrea con le sue genti. In esso appariranno inoltre fotografie inerenti l&amp;rsquo;Eritrea di oggi e del periodo coloniale, relative a personaggi italiani significativi o esemplificativi per quanto riguarda la storia del complesso rapporto fra Italia ed Eritrea (Alberto Pollera, funzionario ed etnografo coloniale, nato a Lucca nel 1873, giunto in Eritrea nel 1895, e fermatosi fino alla sua morte avvenuta nel 1939); a monumenti funerari di persone italiane vissute in Eritrea, e a persone italiane ed eritree la cui testimonianza o storia di vita ha contribuito in modo significativo alla realizzazione della presente ricerca (una suora orsolina eritrea, una coppia mista italo-eritrea, titolare e gestrice di una caratteristica pasticceria italiana ad Asmara, lui deceduto negli anni novanta, lei testimone della presente ricerca). Fra le altre, la foto scattata in una classe della scuola elementare italiana S. Michele, fondata nel 1913 a Segheneiti, come affermava il prof. Alfredo Calabrese, propone una sintesi fra diversi aspetti: il moderno, il coloniale, la religione civilizzante, il colonialismo, il banco vecchio e quello nuovo, l'alfabeto in tigrino.&lt;br /&gt;La colonna sonora del video consiste in vecchie canzoni italiane risalenti al periodo coloniale, qui utilizzate con mera finalit&amp;agrave; di documentazione e contestualizzazione storica.&lt;/p&gt;&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;h3&gt;&lt;em&gt;Italiani in Africa tra passato e presente.&lt;/em&gt; Video-documentario di presentazione della ricerca&lt;/h3&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;Questo video-documentario introduce alla ricerca realizzata, nonch&amp;eacute; al suo contesto geografico e sociale di svolgimento: l&amp;rsquo;Eritrea con le sue genti. In esso appariranno inoltre fotografie inerenti l&amp;rsquo;Eritrea di oggi e del periodo coloniale, relative a personaggi italiani significativi o esemplificativi per quanto riguarda la storia del complesso rapporto fra Italia ed Eritrea (Alberto Pollera, funzionario ed etnografo coloniale, nato a Lucca nel 1873, giunto in Eritrea nel 1895, e fermatosi fino alla sua morte avvenuta nel 1939); a monumenti funerari di persone italiane vissute in Eritrea, e a persone italiane ed eritree la cui testimonianza o storia di vita ha contribuito in modo significativo alla realizzazione della presente ricerca (una suora orsolina eritrea, una coppia mista italo-eritrea, titolare e gestrice di una caratteristica pasticceria italiana ad Asmara, lui deceduto negli anni novanta, lei testimone della presente ricerca). Fra le altre, la foto scattata in una classe della scuola elementare italiana S. Michele, fondata nel 1913 a Segheneiti, come affermava il prof. Alfredo Calabrese, propone una sintesi fra diversi aspetti: il moderno, il coloniale, la religione civilizzante, il colonialismo, il banco vecchio e quello nuovo, l'alfabeto in tigrino.&lt;br /&gt;La colonna sonora del video consiste in vecchie canzoni italiane risalenti al periodo coloniale, qui utilizzate con mera finalit&amp;agrave; di documentazione e contestualizzazione storica.&lt;/p&gt;&lt;/div&gt;</content>
+		<category term="Italiani di Eritrea" />
+	</entry>
+	<entry>
+		<title>Video documentari realizzati</title>
+		<link rel="alternate" type="text/html" href="http://www.equatore.org/index.php?option=com_content&amp;view=article&amp;id=283:video-documentari-realizzati&amp;catid=67&amp;Itemid=160"/>
+		<published>2015-10-24T16:04:06+02:00</published>
+		<updated>2015-10-24T16:04:06+02:00</updated>
+		<id>http://www.equatore.org/index.php?option=com_content&amp;view=article&amp;id=283:video-documentari-realizzati&amp;catid=67&amp;Itemid=160</id>
+		<author>
+			<name>Benedetto Calabrese</name>
+			<email>bennyboy94@libero.it</email>
+		</author>
+		<summary type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;h3&gt;&lt;em&gt;Descrizione dei video-documentari realizzati&lt;/em&gt;&lt;a href=&quot;images/doc/I%20video-documentari%20realizzati.doc&quot; rel=&quot;nofollow&quot;&gt;&lt;br /&gt;&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&quot;images/doc/I%20video-documentari%20realizzati.doc&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;images/icona_doc.jpg&quot; alt=&quot;&quot; /&gt;&amp;nbsp;Leggi il documento completo&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;h3&gt;&lt;em&gt;Descrizione dei video-documentari realizzati&lt;/em&gt;&lt;a href=&quot;images/doc/I%20video-documentari%20realizzati.doc&quot; rel=&quot;nofollow&quot;&gt;&lt;br /&gt;&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&quot;images/doc/I%20video-documentari%20realizzati.doc&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;images/icona_doc.jpg&quot; alt=&quot;&quot; /&gt;&amp;nbsp;Leggi il documento completo&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</content>
+		<category term="Italiani di Eritrea" />
+	</entry>
+	<entry>
+		<title>Vittorio 1</title>
+		<link rel="alternate" type="text/html" href="http://www.equatore.org/index.php?option=com_content&amp;view=article&amp;id=287:vittorio-1&amp;catid=67&amp;Itemid=160"/>
+		<published>2015-11-06T23:43:13+01:00</published>
+		<updated>2015-11-06T23:43:13+01:00</updated>
+		<id>http://www.equatore.org/index.php?option=com_content&amp;view=article&amp;id=287:vittorio-1&amp;catid=67&amp;Itemid=160</id>
+		<author>
+			<name>Benedetto Calabrese</name>
+			<email>bennyboy94@libero.it</email>
+		</author>
+		<summary type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;h3&gt;&lt;em&gt;Italiani in Africa fra passato e presente&lt;/em&gt;&lt;/h3&gt;
+&lt;h3&gt;Video-documentario. 0.12.23. Realizzazione 30 dicembre 2014&lt;/h3&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;iframe width=&quot;500&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/rxXXcx28fMA&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;h3&gt;&lt;em&gt;Italiani in Africa fra passato e presente&lt;/em&gt;&lt;/h3&gt;
+&lt;h3&gt;Video-documentario. 0.12.23. Realizzazione 30 dicembre 2014&lt;/h3&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;iframe width=&quot;500&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/rxXXcx28fMA&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;</content>
+		<category term="Italiani di Eritrea" />
+	</entry>
+</feed>

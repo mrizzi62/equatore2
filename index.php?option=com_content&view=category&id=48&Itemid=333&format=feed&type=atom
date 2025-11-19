@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="en-gb">
+	<title type="text"> - Equatore</title>
+	<subtitle type="text"></subtitle>
+	<link rel="alternate" type="text/html" href="http://www.equatore.org"/>
+	<id>http://www.equatore.org/index.php</id>
+	<updated>2025-11-04T19:27:43+01:00</updated>
+	<generator uri="http://joomla.org" version="2.5">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="http://www.equatore.org/index.php?option=com_content&amp;view=category&amp;id=48&amp;Itemid=333&amp;format=feed&amp;type=atom"/>
+	<entry>
+		<title>Diritto educazione e istruzione</title>
+		<link rel="alternate" type="text/html" href="http://www.equatore.org/index.php?option=com_content&amp;view=article&amp;id=241:diritto-educazione-e-istruzione&amp;catid=48&amp;Itemid=333"/>
+		<published>2014-04-19T22:42:59+02:00</published>
+		<updated>2014-04-19T22:42:59+02:00</updated>
+		<id>http://www.equatore.org/index.php?option=com_content&amp;view=article&amp;id=241:diritto-educazione-e-istruzione&amp;catid=48&amp;Itemid=333</id>
+		<author>
+			<name>Benedetto Calabrese</name>
+			<email>bennyboy94@libero.it</email>
+		</author>
+		<summary type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;h2 style=&quot;text-align: center;&quot;&gt;Popoli oppressi e dimenticati:&lt;br /&gt;il diritto all'educazione e all'istruzione&lt;/h2&gt;
+&lt;p&gt;Il Progetto &quot;Popoli oppressi e dimenticati: il diritto all'educazione e all'istruzione&quot;, realizzato nell'anno scolastico 2003-2004 in alcuni istituti superiori delle province di Brescia, Lecco e Varese, si proponeva di far conoscere alcuni popoli che, per motivi diversi, non sono noti in Italia o che, quando lo sono, vengono conosciuti in modo distorto o attraverso pregiudizi.&lt;/p&gt;
+&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;h2 style=&quot;text-align: center;&quot;&gt;Popoli oppressi e dimenticati:&lt;br /&gt;il diritto all'educazione e all'istruzione&lt;/h2&gt;
+&lt;p&gt;Il Progetto &quot;Popoli oppressi e dimenticati: il diritto all'educazione e all'istruzione&quot;, realizzato nell'anno scolastico 2003-2004 in alcuni istituti superiori delle province di Brescia, Lecco e Varese, si proponeva di far conoscere alcuni popoli che, per motivi diversi, non sono noti in Italia o che, quando lo sono, vengono conosciuti in modo distorto o attraverso pregiudizi.&lt;/p&gt;
+&lt;/div&gt;</content>
+		<category term="Popoli oppresi e dimenticati 2:il diritto all'educazione e all'istruzione (a.s. 2003-2004)" />
+	</entry>
+	<entry>
+		<title>Diritto educazione e istruzione download</title>
+		<link rel="alternate" type="text/html" href="http://www.equatore.org/index.php?option=com_content&amp;view=article&amp;id=244:diritto-educazione-e-istruzione-download&amp;catid=48&amp;Itemid=333"/>
+		<published>2014-04-19T22:49:47+02:00</published>
+		<updated>2014-04-19T22:49:47+02:00</updated>
+		<id>http://www.equatore.org/index.php?option=com_content&amp;view=article&amp;id=244:diritto-educazione-e-istruzione-download&amp;catid=48&amp;Itemid=333</id>
+		<author>
+			<name>Benedetto Calabrese</name>
+			<email>bennyboy94@libero.it</email>
+		</author>
+		<summary type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;h3&gt;Scarica i calendari delle iniziative&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&quot;images/doc/Pop-oppressi-educazionecalendarioi-moretto2.doc&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;images/icona_doc.jpg&quot; alt=&quot;&quot; /&gt;&amp;nbsp;Iniziativa Istituto Moretto&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;images/doc/Calendario_Popoli_oppressi_e_dimenticati-2.doc&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;images/icona_doc.jpg&quot; alt=&quot;&quot; /&gt;&amp;nbsp; Calendario completo del progetto&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;h3&gt;Scarica i calendari delle iniziative&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&quot;images/doc/Pop-oppressi-educazionecalendarioi-moretto2.doc&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;images/icona_doc.jpg&quot; alt=&quot;&quot; /&gt;&amp;nbsp;Iniziativa Istituto Moretto&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;images/doc/Calendario_Popoli_oppressi_e_dimenticati-2.doc&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;images/icona_doc.jpg&quot; alt=&quot;&quot; /&gt;&amp;nbsp; Calendario completo del progetto&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</content>
+		<category term="Popoli oppresi e dimenticati 2:il diritto all'educazione e all'istruzione (a.s. 2003-2004)" />
+	</entry>
+</feed>

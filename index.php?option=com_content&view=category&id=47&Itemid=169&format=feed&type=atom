@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="en-gb">
+	<title type="text"> - Equatore</title>
+	<subtitle type="text"></subtitle>
+	<link rel="alternate" type="text/html" href="http://www.equatore.org"/>
+	<id>http://www.equatore.org/index.php</id>
+	<updated>2025-11-04T19:28:17+01:00</updated>
+	<generator uri="http://joomla.org" version="2.5">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="http://www.equatore.org/index.php?option=com_content&amp;view=category&amp;id=47&amp;Itemid=169&amp;format=feed&amp;type=atom"/>
+	<entry>
+		<title>Progetto didattico unita d'italia</title>
+		<link rel="alternate" type="text/html" href="http://www.equatore.org/index.php?option=com_content&amp;view=article&amp;id=239:progetto-didattico-unita-d-italia&amp;catid=47&amp;Itemid=169"/>
+		<published>2014-04-19T22:33:31+02:00</published>
+		<updated>2014-04-19T22:33:31+02:00</updated>
+		<id>http://www.equatore.org/index.php?option=com_content&amp;view=article&amp;id=239:progetto-didattico-unita-d-italia&amp;catid=47&amp;Itemid=169</id>
+		<author>
+			<name>Benedetto Calabrese</name>
+			<email>bennyboy94@libero.it</email>
+		</author>
+		<summary type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;h2 style=&quot;text-align: center;&quot;&gt;Progetto didattico sull'Unità d'Italia&lt;/h2&gt;
+&lt;p&gt;L'idea centrale che anima il progetto è l'incontro degli studenti con una realtà da osservare, prima ancora di studiarla sui testi.&lt;br /&gt;&lt;strong&gt;Premesse.&lt;/strong&gt;&lt;br /&gt;Il percorso si snoda in un primo momento dentro la città di Brescia.&lt;br /&gt;Possiamo distinguere tre tappe:&lt;br /&gt;1. La visita al monumento dedicato a Tito Speri, uno degli &quot;eroi&quot; del risorgimento, nonché uno dei 19 martiri di Belfiore.&lt;br /&gt;2. La ricostruzione di una toponomastica cittadina dedicata al Risorgimento ( a questo proposito può essere un utile modello ciò che ha fatto la città di Mantova ).&lt;br /&gt;3. La ricostruzione storica e visuale delle Dieci Giornate di Brescia.&lt;/p&gt;
+&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;h2 style=&quot;text-align: center;&quot;&gt;Progetto didattico sull'Unità d'Italia&lt;/h2&gt;
+&lt;p&gt;L'idea centrale che anima il progetto è l'incontro degli studenti con una realtà da osservare, prima ancora di studiarla sui testi.&lt;br /&gt;&lt;strong&gt;Premesse.&lt;/strong&gt;&lt;br /&gt;Il percorso si snoda in un primo momento dentro la città di Brescia.&lt;br /&gt;Possiamo distinguere tre tappe:&lt;br /&gt;1. La visita al monumento dedicato a Tito Speri, uno degli &quot;eroi&quot; del risorgimento, nonché uno dei 19 martiri di Belfiore.&lt;br /&gt;2. La ricostruzione di una toponomastica cittadina dedicata al Risorgimento ( a questo proposito può essere un utile modello ciò che ha fatto la città di Mantova ).&lt;br /&gt;3. La ricostruzione storica e visuale delle Dieci Giornate di Brescia.&lt;/p&gt;
+&lt;/div&gt;</content>
+		<category term="Formazione-in-corso" />
+	</entry>
+</feed>

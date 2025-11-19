@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title> - Equatore</title>
+		<description><![CDATA[]]></description>
+		<link>http://www.equatore.org/index.php?option=com_content&amp;view=category&amp;id=40&amp;Itemid=169</link>
+		<lastBuildDate>Tue, 04 Nov 2025 19:28:13 +0100</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="http://www.equatore.org/index.php?option=com_content&amp;view=category&amp;id=40&amp;Itemid=169&amp;format=feed&amp;type=rss"/>
+		<language>en-gb</language>
+		<item>
+			<title>Depliant titoli di studio</title>
+			<link>http://www.equatore.org/index.php?option=com_content&amp;view=article&amp;id=212:depliant-titoli-di-studio&amp;catid=40&amp;Itemid=169</link>
+			<guid isPermaLink="true">http://www.equatore.org/index.php?option=com_content&amp;view=article&amp;id=212:depliant-titoli-di-studio&amp;catid=40&amp;Itemid=169</guid>
+			<description><![CDATA[<div class="feed-description"><p><img style="display: block; margin-left: auto; margin-right: auto;" src="https://www.equatore.org/images/jpg/depliant_titoli_sutdio.jpg" alt="" /></p>
+<p><a rel="nofollow" href="https://www.equatore.org/images/pdf/DEPLIANT20UV.pdf"><img src="https://www.equatore.org/images/icona_pdf.jpg" alt="" />&nbsp; Scarica qui il depliant completo</a></p>
+<p><a rel="nofollow" href="https://www.equatore.org/images/pdf/LOCANDINA20UV.pdf"><img src="https://www.equatore.org/images/icona_pdf.jpg" alt="" />&nbsp; Scarica qui la locandina completa</a></p></div>]]></description>
+			<author>bennyboy94@libero.it (Benedetto Calabrese)</author>
+			<category>Cittadini stranieri e riconoscimento dei titoli di studio: che fare?</category>
+			<pubDate>Fri, 18 Apr 2014 16:04:44 +0200</pubDate>
+		</item>
+	</channel>
+</rss>
